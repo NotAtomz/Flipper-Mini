@@ -1,4 +1,4 @@
-#Flipper Mini
+# Flipper Mini
 This is a firmware for a device called LilyGo Display with a ESP32S3.
 The firmware is designed to be Similar to the flipper zero.
 The firmware was designed to use:
